@@ -8,6 +8,7 @@ class App extends Component {
       <div className="App">
         {/* watch react videos and go over schoology */}
         {/* ideas : macro calculator, use node as backend for storing info */}
+        {/* ideas: apex api call */}
       </div>
     );
   }
