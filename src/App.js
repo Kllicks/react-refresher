@@ -7,6 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         {/* watch react videos and go over schoology */}
+        {/* ideas : macro calculator, use node as backend for storing info */}
       </div>
     );
   }
